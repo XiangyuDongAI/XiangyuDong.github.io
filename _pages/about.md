@@ -35,7 +35,7 @@ My current research focuses on developing self-improving / self-evolving embodie
 - *2024.06*: &nbsp;🎉🎉 I obtained my Master's degree from Zhejiang University of Technology!
 - *2024.05*: &nbsp;🎉🎉 I joined Professor Xiaoguang Ma's laboratory!
 - *2024.03*: &nbsp;🎉🎉 One paper was accepted to IEEE DDCLS 2024 about visual SLAM! 
-- *2023.05: &nbsp;🎉🎉 I gave an oral presentation on visual SLAM at IEEE DDCLS 2023!
+- *2023.05*: &nbsp;🎉🎉 I gave an oral presentation on visual SLAM at IEEE DDCLS 2023!
 
 # 📝 Publications (co-first authors: *, corresponding authors: #)
 
