@@ -82,7 +82,7 @@ __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†<
 - *2017.09 - 2021.06*: Bachelor, School of Transportation and Civil Engineering, Nantong University, Nantong, China. 
 
 # 💬 Conference Reports
-- *2023.05*: “A Robust Visual SLAM Based on Key Point Instantaneous Rate Identification in Dynamic Environments”. 2023 IEEE 12th Data Driven Control and Learning Systems Conference (DDCLS). 
+- *2023.05*: “A Robust Visual SLAM Based on Key Point Instantaneous Rate Identification in Dynamic Environments”, 2023 IEEE 12th Data Driven Control and Learning Systems Conference (DDCLS). 
 
 # 💻 Internships
 - *2025.05 - Present*: [Tianmushan Laboratory](https://www.tmslab.cn/), co-supervisor: Professor [Yaoming Zhou](https://shi.buaa.edu.cn/zhouyaoming/zh_CN/index.htm).
