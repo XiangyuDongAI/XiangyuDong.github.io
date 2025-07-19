@@ -23,7 +23,7 @@ More about me: [Email](dxy1999ai@163.com) / [Google Scholar](https://scholar.goo
 
 Feel free to contact me by email if you are interested in discussing or collaborating with me.
 
-# 💻 Research Vision
+# 📚 Research Vision
 My current research focuses on developing self-improving / self-evolving embodied navigation agents, and exploring their applications in aerial and ground robots. In the long run, my research vision is to build an embodied agent that can autonomously perceive, make decisions, and learn continuously like humans. To achieve this, I primarily focus on:
 1. Language-driven visual navigation (e.g., VLN and ObjectNav).
 2. Large foundation models (e.g., LLMs and VLMs) and their training techniques.
