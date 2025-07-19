@@ -44,6 +44,7 @@ My current research focuses on developing self-improving / self-evolving embodie
 - *2019.05*: &nbsp;🎉🎉 Our unmanned boat work was selected for the Jiangsu Provincial College Students' Science and Technology Innovation Achievement Exhibition!
 - *2019.05*: &nbsp;🎉🎉 I presided over a National Undergraduate Training Program for Innovation and Entrepreneurship project on unmanned aerial vehicles (UAVs).
 - *2019.05*: &nbsp;🎉🎉 I participated in a National Undergraduate Training Program for Innovation and Entrepreneurship project on unmanned boats.
+- *2018.10*: &nbsp;🎉🎉 I joined the Intelligent Transportation Laboratory, under the guidance of Professor [Shi Quan](https://jttm.ntu.edu.cn/2020/0922/c5249a151941/page.htm)!
 
 # 📝 Selected Publications 
 
