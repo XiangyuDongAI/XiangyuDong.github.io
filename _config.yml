@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiangyu Dong (董翔宇)"
+  name             : "Xiangyu Dong \\(董翔宇)"
   avatar           : "images/dxy.png"
   bio              : "Northeastern University"
   location         : "Foshan, China"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "github username"
   google_plus      :
   keybase          :
   instagram        :
