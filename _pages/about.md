@@ -31,6 +31,7 @@ My current research focuses on developing self-improving / self-evolving embodie
 5. Vision-Language-Action models and their applications.
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 One national invention patent on [visual SLAM](https://kns.cnki.net/kcms2/article/abstract?v=pkeuivz917UQpMHd6x69ed_Qw1HzLZ-AkE2PaeUWZpFKFtQG3IacdRt0HQx8Nr7oY9ChzJVekWrUf3wQEZ7v10MSNaFDERyQKVNz9nTWaZiSEBiyqGXo_nVme1EWem3PiAzrK0RTmwocxQBlnxtkX7P2otC0BYiFZ9pORJa27TT1h9QsLoKYLA==&uniplatform=NZKPT&language=CHS) was authorized!
 - *2024.09*: &nbsp;🎉🎉 One paper was accepted to Chinese Journal of Sensors and Actuators about visual SLAM! 
 - *2024.06*: &nbsp;🎉🎉 I obtained my Master's degree from Zhejiang University of Technology!
 - *2024.05*: &nbsp;🎉🎉 I joined Professor Xiaoguang Ma's laboratory!
