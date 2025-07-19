@@ -46,17 +46,17 @@ My current research focuses on developing self-improving / self-evolving embodie
 
 **Xiangyu Dong**, Haoran Zhao, Jiang Gao, Haozhou Li, Xiaoguang Ma, Yaoming Zhou, Fuhai Chen, Juan Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]((https://example.com/paper1)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We drew inspiration from the evolution capabilities of natural agents, and proposed a self-evolving VLN framework (SE-VLN) to endow VLN agents with the ability to continuously evolve during testing. To the best of our knowledge, it was the first time that an multimodal LLM-powered self-evolving VLN framework was proposed.
 </div>
 </div>
 
-- <u style="color:blue">Boosting LLM-Powered Agentic UAVs via Reflective Self-Learning for Language-Goal Aerial Navigation</u>, Haoyu Tong, __Xiangyu Dong__, Xiaoguang Ma †, Submitted to ICRA 2026.
-- <u style="color:blue">MR-VLN: Towards Continual Vision-and-Language Navigation via Multimodal Memory and Retrieval</u>, Haozhou Li, __Xiangyu Dong__, Xiaoguang Ma †, Submitted to ICRA 2026.
-- <u style="color:blue">PM-Nav: Prior-Map Guided Instruction Navigation in Public Buildings</u>, Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma †, Submitted to AAAI 2026.
-- <u style="color:blue">Dual-memory Visual Question Answering Continual Learning</u>, Fuhai Chen †, __Xiangyu Dong__, Xiaoguang Ma, Submitted to AAAI 2026. 
-- <u style="color:blue">SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models</u>,  __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma †, Yaoming Zhou †, Fuhai Chen, Juan Liu, Submitted to AAAI 2026.
-- <u style="color:blue">SEMA-VLN: A Self-Evolving Multi-Agent Vision-and-Language Navigation Framework Based on Foundation Models</u>, __Xiangyu Dong__, Jiang Gao, Haozhou Li, Xiaoguang Ma †, Wei Meng, Zhengtao Hu, IEEE RAL, 2025, under review.
+- [Boosting LLM-Powered Agentic UAVs via Reflective Self-Learning for Language-Goal Aerial Navigation](https://example.com/paper1), Haoyu Tong, __Xiangyu Dong__, Xiaoguang Ma †, Submitted to ICRA 2026.
+- [MR-VLN: Towards Continual Vision-and-Language Navigation via Multimodal Memory and Retrieval](https://example.com/paper1), Haozhou Li, __Xiangyu Dong__, Xiaoguang Ma †, Submitted to ICRA 2026.
+- [PM-Nav: Prior-Map Guided Instruction Navigation in Public Buildings](https://example.com/paper1), Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma †, Submitted to AAAI 2026.
+- [Dual-memory Visual Question Answering Continual Learning](https://example.com/paper1), Fuhai Chen †, __Xiangyu Dong__, Xiaoguang Ma, Submitted to AAAI 2026. 
+- [SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models](https://example.com/paper1),  __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma †, Yaoming Zhou †, Fuhai Chen, Juan Liu, Submitted to AAAI 2026.
+- [SEMA-VLN: A Self-Evolving Multi-Agent Vision-and-Language Navigation Framework Based on Foundation Models](https://example.com/paper1), __Xiangyu Dong__, Jiang Gao, Haozhou Li, Xiaoguang Ma †, Wei Meng, Zhengtao Hu, IEEE RAL, 2025, under review.
 
 (co-first authors: *, corresponding authors: †)
 
