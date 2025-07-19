@@ -60,17 +60,25 @@ __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†<
 (co-first authors: *, corresponding authors: †)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023*: Second-Class Academic Scholarship, Zhejiang University of Technology.
+- *2022*: First-Class Academic Scholarship, Zhejiang University of Technology.
+- *2022*: Second Prize in the East China Division, China Graduate Electronic Design Competition.
+- *2021*: Freshman Scholarship, Zhejiang University of Technology.
+- *2021*: Excellent Undergraduate Graduation Thesis, Nantong University.
+- *2021*: Outstanding Student, School of Transportation and Civil Engineering, Nantong University.
+- *2019*: First Prize in the East Division, National College Student Embedded Chip and System Design Competition.
+- *2019*: Second Prize, Jiangsu Provincial "Internet +" College Student Innovation and Entrepreneurship Competition. 
+- *2019*: Second Prize, Nantong University "Internet +" College Student Innovation and Entrepreneurship Competition. 
 
 # 📖 Educations
-- *2021.09 - 2024.06*, Master, College of Information Engineering, Zhejiang University of Technology, Hangzhou, China. 
-- *2017.09 - 2021.06*, Bachelor, School of Transportation and Civil Engineering, Nantong University, Nantong, China. 
+- *2021.09 - 2024.06*: Master, College of Information Engineering, Zhejiang University of Technology, Hangzhou, China. 
+- *2017.09 - 2021.06*: Bachelor, School of Transportation and Civil Engineering, Nantong University, Nantong, China. 
 
 # 💬 Conference Reports
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.05*: “A Robust Visual SLAM Based on Key Point Instantaneous Rate Identification in Dynamic Environments”. 2023 IEEE 12th Data Driven Control and Learning Systems Conference (DDCLS). 
 
 # 💻 Internships
-- *2025.05 - Present*, [Tianmushan Laboratory](https://www.tmslab.cn/), co-supervisor: Professor [Yaoming Zhou](https://shi.buaa.edu.cn/zhouyaoming/zh_CN/index.htm).
-- *2024.05 - Present*, [Northeastern University](http://www.fsgraduate.neu.edu.cn/), supervisor: Professor [Xiaoguang Ma](http://www.ise.neu.edu.cn/2021/1108/c6151a206223/page.htm).
+- *2025.05 - Present*: [Tianmushan Laboratory](https://www.tmslab.cn/), co-supervisor: Professor [Yaoming Zhou](https://shi.buaa.edu.cn/zhouyaoming/zh_CN/index.htm).
+- *2024.05 - Present*: [Northeastern University](http://www.fsgraduate.neu.edu.cn/), supervisor: Professor [Xiaoguang Ma](http://www.ise.neu.edu.cn/2021/1108/c6151a206223/page.htm).
 
 
