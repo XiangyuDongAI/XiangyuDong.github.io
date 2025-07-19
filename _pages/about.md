@@ -17,21 +17,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am an Embodied AI student researcher currently working at Northeastern University (Foshan), under the supervision of Professor [Xiaoguang Ma](http://www.ise.neu.edu.cn/2021/0909/c6131a202809/page.htm). Recently, I am focusing on research in Agentic UAVs. Prior to this, I received my Master's degree in Electronic Information from Zhejiang University of Technology in June 2024, where my work was dedicated to developing visual Simultaneous Localization and Mapping (vSLAM) algorithms for ground mobile robots to achieve visual navigation in dynamic scenes.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+More about me: [Email](dxy1999ai@163.com) / [Google Scholar](https://scholar.google.com/citations?user=YourProfileID) / [Github](https://github.com/YourUsername) / [Curriculum Vitae](https://example.com/your-cv.pdf)
 
+Feel free to contact me by email if you are interested in discussing or collaborating with me.
+
+# 💻 Research Vision
+My current research focuses on developing self-improving / self-evolving embodied navigation agents, and exploring their applications in aerial and ground robots. In the long run, my research vision is to build an embodied agent that can autonomously perceive, make decisions, and learn continuously like humans. To achieve this, I primarily focus on:
+1. Language-driven visual navigation (e.g., VLN and ObjectNav).
+2. Large foundation models (e.g., LLMs and VLMs) and their training techniques.
+4. Lifelong learning of LLM / VLM-powered agents.
+5. Vision-Language-Action models and their applications.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 One paper was accepted to Chinese Journal of Sensors and Actuators about visual SLAM! 
+- *2024.06*: &nbsp;🎉🎉 I obtained my Master's degree from Zhejiang University of Technology!
+- *2024.05*: &nbsp;🎉🎉 I joined Professor Xiaoguang Ma's laboratory!
+- *2024.03*: &nbsp;🎉🎉 One paper was accepted to IEEE DDCLS 2024 about visual SLAM! 
+- *2023.05: &nbsp;🎉🎉 I gave an oral presentation on visual SLAM at IEEE DDCLS 2023!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models](https://arxiv.org/abs/2507.13152)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
