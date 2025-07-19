@@ -36,6 +36,12 @@ My current research focuses on developing self-improving / self-evolving embodie
 - *2024.05*: &nbsp;🎉🎉 I joined Professor Xiaoguang Ma's laboratory!
 - *2024.03*: &nbsp;🎉🎉 One paper was accepted to IEEE DDCLS 2024 about visual SLAM! 
 - *2023.05*: &nbsp;🎉🎉 I gave an oral presentation on visual SLAM at IEEE DDCLS 2023!
+- *2022.04*: &nbsp;🎉🎉 One national invention patent on [unmanned boats](https://kns.cnki.net/kcms2/article/abstract?v=pkeuivz917XIPC1JzKS2rusJXnurxx2O3BZw5H2ecyZ7V-BYtJP0_2R4mg6Mc60sYOpnkNY_psG960fkV4nl-Y9Z-gXP7zVASRQIACLmgYLfaE9TRQXzusPt33_gd91HpdmInvY4vBNtR7xBi_ojRR3wnaE05-D-bVkTVy4RnLRZOebl6mcrew==&uniplatform=NZKPT&language=CHS) was authorized!
+- *2021.05*: &nbsp;🎉🎉 Our UAV project successfully passed the conclusion assessment!
+- *2020.05*: &nbsp;🎉🎉 Our unmanned boat project successfully passed the conclusion assessment!
+- *2019.05*: &nbsp;🎉🎉 Our unmanned boat work was selected for the Jiangsu Provincial College Students' Science and Technology Innovation Achievement Exhibition!
+- *2019.05*: &nbsp;🎉🎉 I presided over a National Undergraduate Training Program for Innovation and Entrepreneurship project on unmanned aerial vehicles (UAVs).
+- *2019.05*: &nbsp;🎉🎉 I participated in a National Undergraduate Training Program for Innovation and Entrepreneurship project on unmanned boats.
 
 # 📝 Publications 
 
