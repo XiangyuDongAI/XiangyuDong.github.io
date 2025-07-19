@@ -52,11 +52,11 @@ My current research focuses on developing self-improving / self-evolving embodie
 </div>
 
 - Boosting LLM-Powered Agentic UAVs via Reflective Self-Learning for Language-Goal Aerial Navigation, Haoyu Tong, __Xiangyu Dong__, Xiaoguang Ma #, Submitted to ICRA 2026.
--  "MR-VLN: Towards Continual Vision-and-Language Navigation via Multimodal Memory and Retrieval",Haozhou Li, __Xiangyu Dong__, Xiaoguang Ma #, Submitted to ICRA 2026.
--  "PM-Nav: Prior-Map Guided Instruction Navigation in Public Buildings",Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma #, Submitted to AAAI 2026.
--  "Dual-memory Visual Question Answering Continual Learning", Fuhai Chen #, __Xiangyu Dong__, Xiaoguang Ma,Submitted to AAAI 2026. 
--"SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models",  __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma #, Yaoming Zhou #, Fuhai Chen, Juan Liu, Submitted to AAAI 2026.
--  "SEMA-VLN: A Self-Evolving Multi-Agent Vision-and-Language Navigation Framework Based on Foundation Models", __Xiangyu Dong__, Jiang Gao, Haozhou Li, Xiaoguang Ma #, Wei Meng, Zhengtao Hu,IEEE RAL, 2025, under review.
+- MR-VLN: Towards Continual Vision-and-Language Navigation via Multimodal Memory and Retrieval, Haozhou Li, __Xiangyu Dong__, Xiaoguang Ma #, Submitted to ICRA 2026.
+- PM-Nav: Prior-Map Guided Instruction Navigation in Public Buildings, Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma #, Submitted to AAAI 2026.
+- Dual-memory Visual Question Answering Continual Learning, Fuhai Chen #, __Xiangyu Dong__, Xiaoguang Ma, Submitted to AAAI 2026. 
+- SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models,  __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma #, Yaoming Zhou #, Fuhai Chen, Juan Liu, Submitted to AAAI 2026.
+- SEMA-VLN: A Self-Evolving Multi-Agent Vision-and-Language Navigation Framework Based on Foundation Models, __Xiangyu Dong__, Jiang Gao, Haozhou Li, Xiaoguang Ma #, Wei Meng, Zhengtao Hu, IEEE RAL, 2025, under review.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
