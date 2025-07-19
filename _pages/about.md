@@ -64,7 +64,7 @@ My current research focuses on developing self-improving / self-evolving embodie
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2021.09 - 2024.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2024.06*, Master, College of Information Engineering, Zhejiang University of Technology, Hangzhou, China. 
 - *2017.09 - 2021.06*, Bachelor, School of Transportation and Civil Engineering, Nantong University, Nantong, China. 
 
 # 💬 Invited Talks
