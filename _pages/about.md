@@ -37,7 +37,7 @@ My current research focuses on developing self-improving / self-evolving embodie
 - *2024.03*: &nbsp;🎉🎉 One paper was accepted to IEEE DDCLS 2024 about visual SLAM! 
 - *2023.05*: &nbsp;🎉🎉 I gave an oral presentation on visual SLAM at IEEE DDCLS 2023!
 
-# 📝 Publications (co-first authors: *, corresponding authors: #)
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -57,6 +57,8 @@ My current research focuses on developing self-improving / self-evolving embodie
 - Dual-memory Visual Question Answering Continual Learning, Fuhai Chen #, __Xiangyu Dong__, Xiaoguang Ma, Submitted to AAAI 2026. 
 - SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models,  __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma #, Yaoming Zhou #, Fuhai Chen, Juan Liu, Submitted to AAAI 2026.
 - SEMA-VLN: A Self-Evolving Multi-Agent Vision-and-Language Navigation Framework Based on Foundation Models, __Xiangyu Dong__, Jiang Gao, Haozhou Li, Xiaoguang Ma #, Wei Meng, Zhengtao Hu, IEEE RAL, 2025, under review.
+
+(co-first authors: *, corresponding authors: #)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
