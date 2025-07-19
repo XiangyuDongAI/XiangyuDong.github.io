@@ -66,7 +66,7 @@ __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†<
 - *2021.09 - 2024.06*, Master, College of Information Engineering, Zhejiang University of Technology, Hangzhou, China. 
 - *2017.09 - 2021.06*, Bachelor, School of Transportation and Civil Engineering, Nantong University, Nantong, China. 
 
-# 💬 Invited Talks
+# 💬 Conference Reports
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💻 Internships
