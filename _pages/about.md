@@ -38,6 +38,7 @@ My current research focuses on developing self-improving / self-evolving embodie
 - *2023.05: &nbsp;🎉🎉 I gave an oral presentation on visual SLAM at IEEE DDCLS 2023!
 
 # 📝 Publications 
+(co-first authors: *, corresponding authors: #)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
