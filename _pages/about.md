@@ -28,12 +28,13 @@ redirect_from:
 .scrollable-box ul {
   white-space: nowrap;
   margin: 0;
-  padding-left: 20px;     
+  padding-left: 25px; 
   display: inline-block;
 }
 
 .scrollable-box li {
-  display: block;
+  display: list-item;
+  list-style-type: disc; 
   margin-bottom: 8px;
 }
 
