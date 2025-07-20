@@ -17,12 +17,24 @@ redirect_from:
 
 <style>
 .scrollable-box {
-  overflow: auto;         
-  max-width: 100%;        
-  max-height: 200px;      
-  scrollbar-width: thin;  
-  padding: 8px;           
-  border: 1px solid #eee; 
+  overflow: auto;         /* 同时启用水平和垂直滚动 */
+  max-width: 100%;        /* 限制最大宽度 */
+  max-height: 200px;      /* 限制最大高度 */
+  scrollbar-width: thin;  /* 细化滚动条样式 */
+  padding: 8px;           /* 添加内边距 */
+  border: 1px solid #eee; /* 可选：添加边框便于观察 */
+}
+
+.scrollable-box ul {
+  white-space: nowrap;    /* 禁止列表整体换行 */
+  margin: 0;
+  padding: 0;
+  display: inline-block;  /* 列表宽度由内容决定 */
+}
+
+.scrollable-box li {
+  display: block;         /* 列表项保持垂直排列 */
+  margin-bottom: 8px;     /* 列表项之间添加间距 */
 }
 
 .scrollable-box a {
