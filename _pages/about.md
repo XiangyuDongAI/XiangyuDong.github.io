@@ -16,15 +16,18 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <style>
-  .scrollable-box {
-    max-height: 200px;
-    overflow-y: auto;
-    scrollbar-width: thin;
-  }
-  .scrollable-box a {
-    color: #0066cc;
-    text-decoration: underline;
-  }
+.scrollable-box {
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  max-width: 100%;
+  scrollbar-width: thin;
+  padding: 8px 0; 
+}
+.scrollable-box a {
+  color: #0066cc;
+  text-decoration: underline;
+}
 </style>
 
 <span class='anchor' id='about-me'></span>
