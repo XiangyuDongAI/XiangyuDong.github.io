@@ -80,7 +80,6 @@ My current research focuses on developing self-improving / self-evolving embodie
 </div>
 
 # 📝 Selected Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -92,7 +91,6 @@ __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†<
 - We drew inspiration from the evolution capabilities of natural agents, and proposed a self-evolving VLN framework (SE-VLN) to endow VLN agents with the ability to continuously evolve during testing. To the best of our knowledge, it was the first time that an multimodal LLM-powered self-evolving VLN framework was proposed.
 </div>
 </div>
-
 - [Boosting LLM-Powered Agentic UAVs via Reflective Self-Learning for Language-Goal Aerial Navigation](https://example.com/paper1), Haoyu Tong, __Xiangyu Dong__, Xiaoguang Ma <sup>†</sup>, Submitted to ICRA 2026.
 - [MR-VLN: Towards Continual Vision-and-Language Navigation via Multimodal Memory and Retrieval](https://example.com/paper1), Haozhou Li, __Xiangyu Dong__, Xiaoguang Ma <sup>†</sup>, Submitted to ICRA 2026.
 - [PM-Nav: Prior-Map Guided Instruction Navigation in Public Buildings](https://example.com/paper1), Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>, Submitted to AAAI 2026.
