@@ -97,6 +97,58 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+
+.news-container {
+    max-height: 300px;
+    overflow-y: auto;
+    padding-right: 10px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background-color: #fafafa;
+    
+    /* 自定义滚动条样式 */
+    &::-webkit-scrollbar {
+        width: 8px;
+    }
+    
+    &::-webkit-scrollbar-track {
+        background: #f1f1f1;
+        border-radius: 4px;
+    }
+    
+    &::-webkit-scrollbar-thumb {
+        background: #c1c1c1;
+        border-radius: 4px;
+        
+        &:hover {
+            background: #a8a8a8;
+        }
+    }
+    
+    /* Firefox滚动条样式 */
+    scrollbar-width: thin;
+    scrollbar-color: #c1c1c1 #f1f1f1;
+    
+    ul {
+        margin: 0;
+        padding: 15px;
+        list-style-type: none;
+    }
+    
+    li {
+        margin-bottom: 12px;
+        padding-bottom: 8px;
+        border-bottom: 1px solid #e8e8e8;
+        
+        &:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+        }
+    }
+}
+
+
+
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;
