@@ -17,13 +17,14 @@ redirect_from:
 
 <style>
 .scrollable-box {
-  white-space: nowrap;
-  overflow-x: auto;
-  overflow-y: hidden;
-  max-width: 100%;
-  scrollbar-width: thin;
-  padding: 8px 0; 
+  overflow: auto;         
+  max-width: 100%;        
+  max-height: 200px;      
+  scrollbar-width: thin;  
+  padding: 8px;           
+  border: 1px solid #eee; 
 }
+
 .scrollable-box a {
   color: #0066cc;
   text-decoration: underline;
