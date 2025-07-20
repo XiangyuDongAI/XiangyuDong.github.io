@@ -17,24 +17,24 @@ redirect_from:
 
 <style>
 .scrollable-box {
-  overflow: auto;        
-  max-width: 100%;       
-  max-height: 200px;      
+  overflow: auto;         
+  max-width: 100%;        
+  max-height: 200px;     
   scrollbar-width: thin;  
   padding: 8px;           
 
 }
 
 .scrollable-box ul {
-  white-space: nowrap;   
+  white-space: nowrap;
   margin: 0;
-  padding: 0;
-  display: inline-block; 
+  padding-left: 20px;     
+  display: inline-block;
 }
 
 .scrollable-box li {
-  display: block;         
-  margin-bottom: 8px;     
+  display: block;
+  margin-bottom: 8px;
 }
 
 .scrollable-box a {
