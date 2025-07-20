@@ -15,6 +15,14 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<style>
+.scrollable-box {
+  max-height: 200px; 
+  overflow-y: auto; 
+  scrollbar-width: thin;
+}
+</style>
+
 <span class='anchor' id='about-me'></span>
 
 I am an Embodied AI student researcher currently working at Northeastern University (Foshan), under the supervision of Professor [Xiaoguang Ma](http://www.ise.neu.edu.cn/2021/0909/c6131a202809/page.htm). Recently, I am focusing on research in Agentic UAVs. Prior to this, I received my Master's degree in Electronic Information from Zhejiang University of Technology in June 2024, where my work was dedicated to developing visual Simultaneous Localization and Mapping (vSLAM) algorithms for ground mobile robots to achieve visual navigation in dynamic scenes.
@@ -31,20 +39,24 @@ My current research focuses on developing self-improving / self-evolving embodie
 5. Vision-Language-Action models and their applications.
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 One national invention patent on [visual SLAM](https://kns.cnki.net/kcms2/article/abstract?v=pkeuivz917UQpMHd6x69ed_Qw1HzLZ-AkE2PaeUWZpFKFtQG3IacdRt0HQx8Nr7oY9ChzJVekWrUf3wQEZ7v10MSNaFDERyQKVNz9nTWaZiSEBiyqGXo_nVme1EWem3PiAzrK0RTmwocxQBlnxtkX7P2otC0BYiFZ9pORJa27TT1h9QsLoKYLA==&uniplatform=NZKPT&language=CHS) was authorized!
-- *2024.09*: &nbsp;🎉🎉 One paper was accepted to Chinese Journal of Sensors and Actuators about visual SLAM!
-- *2024.06*: &nbsp;🎉🎉 I obtained my Master's degree from Zhejiang University of Technology!
-- *2024.05*: &nbsp;🎉🎉 I joined Professor Xiaoguang Ma's laboratory!
-- *2024.03*: &nbsp;🎉🎉 One paper was accepted to IEEE DDCLS 2024 about visual SLAM!
-- *2023.05*: &nbsp;🎉🎉 I gave an oral presentation on visual SLAM at IEEE DDCLS 2023!
-- *2022.04*: &nbsp;🎉🎉 One national invention patent on [unmanned boats](https://kns.cnki.net/kcms2/article/abstract?v=pkeuivz917XIPC1JzKS2rusJXnurxx2O3BZw5H2ecyZ7V-BYtJP0_2R4mg6Mc60sYOpnkNY_psG960fkV4nl-Y9Z-gXP7zVASRQIACLmgYLfaE9TRQXzusPt33_gd91HpdmInvY4vBNtR7xBi_ojRR3wnaE05-D-bVkTVy4RnLRZOebl6mcrew==&uniplatform=NZKPT&language=CHS) was authorized!
-- *2021.06*: &nbsp;🎉🎉 I obtained my Bachelor's degree from Nantong University!
-- *2021.05*: &nbsp;🎉🎉 Our UAV project successfully passed the conclusion assessment!
-- *2020.05*: &nbsp;🎉🎉 Our unmanned boat project successfully passed the conclusion assessment!
-- *2019.05*: &nbsp;🎉🎉 Our unmanned boat work was selected for the Jiangsu Provincial College Students' Science and Technology Innovation Achievement Exhibition!
-- *2019.05*: &nbsp;🎉🎉 I presided over a National Undergraduate Training Program for Innovation and Entrepreneurship project on unmanned aerial vehicles (UAVs).
-- *2019.05*: &nbsp;🎉🎉 I participated in a National Undergraduate Training Program for Innovation and Entrepreneurship project on unmanned boats.
-- *2018.10*: &nbsp;🎉🎉 I joined the Intelligent Transportation Laboratory, supervised by Professor [Shi Quan](https://jttm.ntu.edu.cn/2020/0922/c5249a151941/page.htm)!
+<div class="scrollable-box">
+  <ul>
+<li>- *2025.06*: &nbsp;🎉🎉 One national invention patent on [visual SLAM](https://kns.cnki.net/kcms2/article/abstract?v=pkeuivz917UQpMHd6x69ed_Qw1HzLZ-AkE2PaeUWZpFKFtQG3IacdRt0HQx8Nr7oY9ChzJVekWrUf3wQEZ7v10MSNaFDERyQKVNz9nTWaZiSEBiyqGXo_nVme1EWem3PiAzrK0RTmwocxQBlnxtkX7P2otC0BYiFZ9pORJa27TT1h9QsLoKYLA==&uniplatform=NZKPT&language=CHS) was authorized!</li>
+<li>- *2024.09*: &nbsp;🎉🎉 One paper was accepted to Chinese Journal of Sensors and Actuators about visual SLAM!</li>
+<li>- *2024.06*: &nbsp;🎉🎉 I obtained my Master's degree from Zhejiang University of Technology!</li>
+<li>- *2024.05*: &nbsp;🎉🎉 I joined Professor Xiaoguang Ma's laboratory!</li>
+<li>- *2024.03*: &nbsp;🎉🎉 One paper was accepted to IEEE DDCLS 2024 about visual SLAM!</li>
+<li>- *2023.05*: &nbsp;🎉🎉 I gave an oral presentation on visual SLAM at IEEE DDCLS 2023!</li>
+<li>- *2022.04*: &nbsp;🎉🎉 One national invention patent on [unmanned boats](https://kns.cnki.net/kcms2/article/abstract?v=pkeuivz917XIPC1JzKS2rusJXnurxx2O3BZw5H2ecyZ7V-BYtJP0_2R4mg6Mc60sYOpnkNY_psG960fkV4nl-Y9Z-gXP7zVASRQIACLmgYLfaE9TRQXzusPt33_gd91HpdmInvY4vBNtR7xBi_ojRR3wnaE05-D-bVkTVy4RnLRZOebl6mcrew==&uniplatform=NZKPT&language=CHS) was authorized!</li>
+<li>- *2021.06*: &nbsp;🎉🎉 I obtained my Bachelor's degree from Nantong University!</li>
+<li>- *2021.05*: &nbsp;🎉🎉 Our UAV project successfully passed the conclusion assessment!</li>
+<li>- *2020.05*: &nbsp;🎉🎉 Our unmanned boat project successfully passed the conclusion assessment!</li>
+<li>- *2019.05*: &nbsp;🎉🎉 Our unmanned boat work was selected for the Jiangsu Provincial College Students' Science and Technology Innovation Achievement Exhibition!</li>
+<li>- *2019.05*: &nbsp;🎉🎉 I presided over a National Undergraduate Training Program for Innovation and Entrepreneurship project on unmanned aerial vehicles (UAVs).</li>
+<li>- *2019.05*: &nbsp;🎉🎉 I participated in a National Undergraduate Training Program for Innovation and Entrepreneurship project on unmanned boats.</li>
+<li>- *2018.10*: &nbsp;🎉🎉 I joined the Intelligent Transportation Laboratory, supervised by Professor [Shi Quan](https://jttm.ntu.edu.cn/2020/0922/c5249a151941/page.htm)!</li>
+  </ul>
+</div>
 
 # 📝 Selected Publications 
 
