@@ -22,7 +22,7 @@ redirect_from:
   max-height: 200px;      
   scrollbar-width: thin;  
   padding: 8px;           
-  border: 1px solid #eee; 
+
 }
 
 .scrollable-box ul {
