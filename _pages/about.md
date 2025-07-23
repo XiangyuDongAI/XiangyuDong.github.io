@@ -88,7 +88,7 @@ My current research focuses on developing self-improving / self-evolving embodie
 __Xiangyu Dong__, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†</sup>, Wei Meng, Zhengtao Hu, IEEE RAL, 2025, under review.
 
 [**Project**]((https://example.com/paper1)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Our work aimed to build a foundation model-driven multi-agent VLN framework, achieving self-evolution through collaborative reasoning among multiple agents. 
+- This work aimed to build a foundation model-driven multi-agent VLN framework, achieving self-evolution through collaborative reasoning among multiple agents. 
 </div>
 </div>
 - [Boosting LLM-Powered Agentic UAVs via Reflective Self-Learning for Language-Goal Aerial Navigation](https://example.com/paper1), Haoyu Tong, __Xiangyu Dong__, Xiaoguang Ma <sup>†</sup>, Submitted to ICRA 2026.
