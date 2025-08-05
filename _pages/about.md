@@ -62,7 +62,7 @@ My current research focuses on developing self-improving / self-evolving embodie
 # 🔥 News
 <div class="scrollable-box">
   <ul>
-    <li> 2025.07: &nbsp;🎉🎉 Our work “<a href="https://arxiv.org/pdf/2507.13152" target="_blank">SE-VLN</a>” was unveiled on Arxiv! <a href="[https://arxiv.org/pdf/2507.13152](https://mp.weixin.qq.com/s/N45mBZE4OD5KmvyJka8N6g?scene=1&click_id=101)" target="_blank">[视觉语言导航]</a></li>
+    <li> 2025.07: &nbsp;🎉🎉 Our work “<a href="https://arxiv.org/pdf/2507.13152" target="_blank">SE-VLN</a>” was unveiled on Arxiv! <a href="https://mp.weixin.qq.com/s/N45mBZE4OD5KmvyJka8N6g?scene=1&click_id=101" target="_blank">[视觉语言导航]</a></li>
     <li> 2025.06: &nbsp;🎉🎉 One national invention patent on <a href="https://kns.cnki.net/kcms2/article/abstract?v=pkeuivz917UQpMHd6x69ed_Qw1HzLZ-AkE2PaeUWZpFKFtQG3IacdRt0HQx8Nr7oY9ChzJVekWrUf3wQEZ7v10MSNaFDERyQKVNz9nTWaZiSEBiyqGXo_nVme1EWem3PiAzrK0RTmwocxQBlnxtkX7P2otC0BYiFZ9pORJa27TT1h9QsLoKYLA==&uniplatform=NZKPT&language=CHS" target="_blank">visual SLAM</a> was authorized!</li>
     <li> 2024.09: &nbsp;🎉🎉 One paper was accepted to Chinese Journal of Sensors and Actuators about visual SLAM!</li>
     <li> 2024.06: &nbsp;🎉🎉 I obtained my Master's degree from Zhejiang University of Technology!</li>
