@@ -81,7 +81,7 @@ My current research focuses on developing self-improving / self-evolving embodie
 </div>
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/se-vln.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models](https://arxiv.org/abs/2507.13152)
