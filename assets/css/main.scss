@@ -56,7 +56,7 @@
         width: 100%;
         order: 2;
         img {
-            max-width: 300px;
+            max-width: 300px; /* 可以适当减小图片本身的最大宽度 */
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
@@ -70,21 +70,19 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 20%;
+            min-width: 150px; /* 减小最小宽度限制 */
+            max-width: 15%; /* 图片区域减小到15% */
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
-            max-width: 80%;
+            max-width: 85%; /* 文字区域增大到85% */
             order: 2;
         }
 
     }
-
-
 }
 
 $scroll_offset : 2em;
