@@ -123,4 +123,4 @@ __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†<
 - *2024.05 - Present*: [Northeastern University](http://www.fsgraduate.neu.edu.cn/), supervisor: Professor [Xiaoguang Ma](http://www.ise.neu.edu.cn/2021/1108/c6151a206223/page.htm).
 
 # 🛠 Social Services
-- Reviewer: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI).
+- Reviewer: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026).
