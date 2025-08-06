@@ -115,7 +115,7 @@ __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†<
 - *2021.09 - 2024.06*: Master, College of Information Engineering, Zhejiang University of Technology, Hangzhou, China. 
 - *2017.09 - 2021.06*: Bachelor, School of Transportation and Civil Engineering, Nantong University, Nantong, China. 
 
-# 💬 Conference Reports
+# 💬 Reports
 - *2023.05*: “A Robust Visual SLAM Based on Key Point Instantaneous Rate Identification in Dynamic Environments”, 2023 IEEE 12th Data Driven Control and Learning Systems Conference (DDCLS). 
 
 # 💻 Internships
