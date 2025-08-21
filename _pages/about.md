@@ -92,7 +92,7 @@ __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†<
 - We drew inspiration from the evolution capabilities of natural agents, and proposed a self-evolving VLN framework (SE-VLN) to endow VLN agents with the ability to continuously evolve during testing. To the best of our knowledge, it was the first time that an multimodal LLM-powered self-evolving VLN framework was proposed.
 </div>
 </div>
-- [PM-Nav: Prior-Map Guided Embodied Navigation in Public Buildings](https://example.com/paper1), Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>, Submitted to ICLR 2026.
+- [PM-Nav: Prior-Map Guided Embodied Navigation in Public Buildings](https://example.com/paper1), Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>, Submitted to ICRA 2026.
 - [Boosting LLM-Powered Agentic UAVs via Reflective Self-Learning for Language-Goal Aerial Navigation](https://example.com/paper1), Haoyu Tong, __Xiangyu Dong__, Xiaoguang Ma <sup>†</sup>, Submitted to ICRA 2026.
 - [MR-VLN: Towards Continual Vision-and-Language Navigation via Multimodal Memory and Retrieval](https://example.com/paper1), Haozhou Li, __Xiangyu Dong__, Xiaoguang Ma <sup>†</sup>, Submitted to ICRA 2026.
 - [Dual Multi-modal Incremental Learning with Class-individual Memory](https://example.com/paper1), Fuhai Chen <sup>†</sup>, __Xiangyu Dong__, Xiaoguang Ma, Submitted to AAAI 2026. 
