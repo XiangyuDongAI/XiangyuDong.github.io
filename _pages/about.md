@@ -1,4 +1,4 @@
----
+<img width="347" height="169" alt="image" src="https://github.com/user-attachments/assets/92c154db-8568-4987-a6e0-be8309308d15" /><img width="347" height="169" alt="image" src="https://github.com/user-attachments/assets/07e59e90-0bda-4399-ad0a-2d4167db7fbb" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -93,7 +93,7 @@ __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†<
 </div>
 </div>
 - [Boosting LLM-Powered Agentic UAVs via Reflective Self-Learning for Language-Goal Aerial Navigation](https://example.com/paper1), Haoyu Tong, __Xiangyu Dong__, Xiaoguang Ma <sup>†</sup>, Submitted to IEEE RAL 2025.
-- [PM-Nav: Prior-Map Guided Embodied Navigation in Public Buildings](https://example.com/paper1), Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>, Submitted to ICRA 2026.
+- [PM-Nav: Prior-Map Guided Embodied Navigation in Functional Buildings](https://example.com/paper1), Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>, Submitted to ICRA 2026.
 - [MR-VLN: Towards Continual Vision-and-Language Navigation via Multimodal Memory and Retrieval](https://example.com/paper1), Haozhou Li, __Xiangyu Dong__, Xiaoguang Ma <sup>†</sup>, Submitted to ICRA 2026.
 - [Dual Multi-modal Incremental Learning with Class-individual Memory](https://example.com/paper1), Fuhai Chen <sup>†</sup>, __Xiangyu Dong__, Xiaoguang Ma, Submitted to AAAI 2026. 
 - [Towards Self-Evolving Multi-Agent Vision-and-Language Navigation: A Training-Free Framework Based on Foundation Models](https://example.com/paper1), __Xiangyu Dong__, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†</sup>, Wei Meng, Zhengtao Hu, IEEE RAL, 2025, under review.
