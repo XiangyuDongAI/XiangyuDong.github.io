@@ -97,6 +97,7 @@ __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†<
 - [MMR-VLN: Towards Continual Vision-and-Language Navigation via Multimodal Memory and Retrieval](https://example.com/paper1), Haozhou Li *, __Xiangyu Dong *__, Xiaoguang Ma <sup>†</sup>, Submitted to ICRA 2026.
 - [PM-Nav: Prior-Map Guided Embodied Navigation in Functional Buildings](https://example.com/paper1), Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>, Submitted to ICRA 2026.
 - [Boosting LLM-Powered Agentic UAVs via Reflective Self-Learning for Language-Goal Aerial Navigation](https://example.com/paper1), Haoyu Tong, __Xiangyu Dong__, Xiaoguang Ma <sup>†</sup>, Submitted to IEEE RAL 2025.
+
 (co-first authors: *, corresponding authors: †)
 
 # 🎖 Honors and Awards
