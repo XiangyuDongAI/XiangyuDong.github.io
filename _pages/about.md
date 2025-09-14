@@ -92,12 +92,11 @@ __Xiangyu Dong *__, Haoran Zhao *, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†<
 - We drew inspiration from the evolution capabilities of natural agents, and proposed a self-evolving VLN framework (SE-VLN) to endow VLN agents with the ability to continuously evolve during testing. To the best of our knowledge, it was the first time that an multimodal LLM-powered self-evolving VLN framework was proposed.
 </div>
 </div>
-- [Boosting LLM-Powered Agentic UAVs via Reflective Self-Learning for Language-Goal Aerial Navigation](https://example.com/paper1), Haoyu Tong, __Xiangyu Dong__, Xiaoguang Ma <sup>†</sup>, Submitted to IEEE RAL 2025.
-- [PM-Nav: Prior-Map Guided Embodied Navigation in Functional Buildings](https://example.com/paper1), Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>, Submitted to ICRA 2026.
-- [MMR-VLN: Towards Continual Vision-and-Language Navigation via Multimodal Memory and Retrieval](https://example.com/paper1), Haozhou Li *, __Xiangyu Dong *__, Xiaoguang Ma <sup>†</sup>, Submitted to ICRA 2026.
-- [Dual Multi-modal Incremental Learning with Class-individual Memory](https://example.com/paper1), Fuhai Chen <sup>†</sup>, __Xiangyu Dong__, Xiaoguang Ma, Submitted to AAAI 2026. 
 - [SEMA-VLN: A Self-Evolving Multi-Agent Vision-Language Navigation Framework Based on Foundation Models](https://example.com/paper1), __Xiangyu Dong__, Jiang Gao, Haozhou Li, Xiaoguang Ma <sup>†</sup>, Wei Meng, Zhengtao Hu, IEEE RAL, 2025, under review.
-
+- [Dual Multi-modal Incremental Learning with Class-individual Memory](https://example.com/paper1), Fuhai Chen <sup>†</sup>, __Xiangyu Dong__, Xiaoguang Ma, Submitted to AAAI 2026. 
+- [MMR-VLN: Towards Continual Vision-and-Language Navigation via Multimodal Memory and Retrieval](https://example.com/paper1), Haozhou Li *, __Xiangyu Dong *__, Xiaoguang Ma <sup>†</sup>, Submitted to ICRA 2026.
+- [PM-Nav: Prior-Map Guided Embodied Navigation in Functional Buildings](https://example.com/paper1), Jiang Gao *, __Xiangyu Dong *__, Haozhou Li, Haoran Zhao, Yaoming Zhou, Xiaoguang Ma <sup>†</sup>, Submitted to ICRA 2026.
+- [Boosting LLM-Powered Agentic UAVs via Reflective Self-Learning for Language-Goal Aerial Navigation](https://example.com/paper1), Haoyu Tong, __Xiangyu Dong__, Xiaoguang Ma <sup>†</sup>, Submitted to IEEE RAL 2025.
 (co-first authors: *, corresponding authors: †)
 
 # 🎖 Honors and Awards
